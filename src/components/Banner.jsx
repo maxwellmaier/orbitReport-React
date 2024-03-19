@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './styling.css'; // Import styling.css
 function Banner() {
   return (
     <header>

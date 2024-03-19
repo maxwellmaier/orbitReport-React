@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './styling.css'; // Import styling.css
 const Table = ({ sat }) => {
   return (
     <table>

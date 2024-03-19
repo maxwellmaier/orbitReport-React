@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './styling.css'; // Import styling.css
 const Buttons = ({ filterByType, setSat, displaySats }) => {
   return (
     <div>
